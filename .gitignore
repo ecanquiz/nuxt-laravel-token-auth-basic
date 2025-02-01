@@ -1,0 +1,47 @@
+/laravel_11/.phpunit.cache
+/laravel_11/node_modules
+/laravel_11/public/build
+/laravel_11/public/hot
+/laravel_11/public/storage
+/laravel_11/storage/*.key
+/laravel_11/vendor
+/laravel_11/.env
+/laravel_11/.env.backup
+/laravel_11/.env.production
+/laravel_11/.phpactor.json
+/laravel_11/.phpunit.result.cache
+/laravel_11/Homestead.json
+/laravel_11/Homestead.yaml
+/laravel_11/auth.json
+/laravel_11/npm-debug.log
+/laravel_11/yarn-error.log
+/laravel_11/.fleet
+/laravel_11/.idea
+/laravel_11/.vscode
+/laravel_11/.zed
+
+# Nuxt dev/build outputs
+/nuxt_3/.output
+/nuxt_3/.data
+/nuxt_3/.nuxt
+/nuxt_3/.nitro
+/nuxt_3/.cache
+/nuxt_3/dist
+
+# Node dependencies
+/nuxt_3/node_modules
+
+# Logs
+/nuxt_3/logs
+/nuxt_3/*.log
+
+# Misc
+/nuxt_3/.DS_Store
+/nuxt_3/.fleet
+/nuxt_3/.idea
+
+# Local env files
+/nuxt_3/.env
+/nuxt_3/.env.*
+/nuxt_3/!.env.example
+
